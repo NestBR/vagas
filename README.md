@@ -52,10 +52,9 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### :octocat: Outros repositórios de vagas
 
-Esse repositório é específico para vagas de **React Native**.
+Esse repositório é específico para vagas que contenham **NestJS** em sua stack.
 Existem vagas para muitas outras áreas nesse mercado sendo compartilhadas por outras comunidades, algumas pessoas
-da comunidade forkaram o repositório do FrontEndBR e criaram outras listas específicas
-para diferentes _stacks_ e estados do país. Confira abaixo as outras
+da comunidade criaram outras listas específicas para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga também:
 
 #### Por área
